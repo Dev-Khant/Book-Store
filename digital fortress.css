@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+}
+body::-webkit-scrollbar {
+    width: 7px;               
+}
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(160, 160, 160); 
+    border-radius: 20px;       
+  }
+header{
+    height: 120px;
+    background-color: #FCF6F5FF;
+}
+img{
+    left: 50px;
+    top: 25px;
+    position: absolute;
+}
+#acc{
+   position: absolute;
+   left: 85%;
+   top: 11%;
+}
+a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+#log{
+    color: blue;
+}
+#sig{
+    color: rgb(1, 185, 1);
+}
+#cart{
+    margin-left: 60px;
+}
+#cp{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 102%;
+    top: 11%;
+}
+#dec{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+h2{
+    position: absolute;
+    left: 33%;
+    top: 17%;
+}
+p{
+    position: absolute;
+    top: 27%;
+    width: 600px;
+    left: 33%;
+    font-size: large;
+}
+#mobin{
+    position: absolute;
+    left: 33%;
+    top: 100%;
+    border: solid 1px black;
+    border-radius: 5px;
+    height: 30px;
+    font-size: large;
+}
+#mob{
+    position: absolute;
+    left: 27.5%;
+    top: 100.6%;
+}
+#ad{
+    position: absolute;
+    left: 50%;
+    top: 100%;
+}
+#adin{
+    position: absolute;
+    left: 55%;
+    top: 100%;
+    border: solid 1px black;
+    border-radius: 5px;
+    font-size: large;
+}
+#but{
+    position: absolute;
+    left: 45%;
+    top: 135%;
+    border: none;
+    height: 40px;
+    width: 120px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: rgb(0, 140, 255);
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
