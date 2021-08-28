@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    font-size: 15px;
+}
+body::-webkit-scrollbar {
+    width: 7px;               
+}
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(160, 160, 160); 
+    border-radius: 20px;       
+  }
+header{
+    height: 120px;
+    background-color: #FCF6F5FF;
+}
+img{
+    left: 50px;
+    top: 25px;
+    position: absolute;
+}
+#acc{
+   position: absolute;
+   left: 85%;
+   top: 11%;
+}
+a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+#log{
+    color: blue;
+}
+#sig{
+    color: rgb(1, 185, 1);
+}
+#cart{
+    margin-left: 55px;
+}
+#cp{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 102%;
+    top: 11%;
+}
+h1{
+    position: absolute;
+    left: 20px;
+    top: 105px;
+}
+#dec img{
+    height: 200px;
+    position: absolute;
+    top: 26%;
+}
+#dec h2{
+    position: absolute;
+    left: 20%;
+    top: 22%;
+}
+#dec p{
+    position: absolute;
+    left: 20.2%;
+    top: 30%;
+    width: 800px;
+    font-size: large;
+}
+#dec{
+    height: 320px;
+    border-bottom: solid 1px gray; 
+}
+#mur img{
+    height: 200px;
+    position: absolute;
+    top: 68%;
+}
+#mur h2{
+    position: absolute;
+    left: 20%;
+    top: 64%;
+}
+#mur p{
+    position: absolute;
+    left: 20.2%;
+    top: 73%;
+    width: 800px;
+    font-size: large;
+}
+#mur{
+    height: 320px;
+    border-bottom: solid 1px gray; 
+}
+#day img{
+    height: 200px;
+    position: absolute;
+    top: 112.5%;
+}
+#day h2{
+    position: absolute;
+    left: 20%;
+    top: 109%;
+}
+#day p{
+    position: absolute;
+    left: 20.2%;
+    top: 117%;
+    width: 800px;
+    font-size: large;
+}
+#day{
+    height: 320px;
+    border-bottom: solid 1px gray; 
+}
+#dig img{
+    height: 200px;
+    position: absolute;
+    top: 157%;
+}
+#dig h2{
+    position: absolute;
+    left: 20%;
+    top: 154%;
+}
+#dig p{
+    position: absolute;
+    left: 20.2%;
+    top: 164%;
+    width: 800px;
+    font-size: large;
+}
+#dig{
+    height: 320px;
+    border-bottom: solid 1px gray; 
+}
+#think img{
+    height: 200px;
+    position: absolute;
+    top: 200%;
+}
+#think h2{
+    position: absolute;
+    left: 20%;
+    top: 197%;
+}
+#think p{
+    position: absolute;
+    left: 20.2%;
+    top: 206%;
+    width: 800px;
+    font-size: large;
+}
+#think{
+    height: 270px; 
+}
+footer{
+    height: 160px;
+    position: relative;
+    background-color: #FCF6F5FF;
+    padding-top: 0;
+}
+#about{
+    margin-left: 10px;
+    color: rgb(105, 150, 221);
+}
+#aboutp{
+    margin-left: 10px;
+    width: 700px;
+}
+#con{
+    position: absolute;
+    left: 50%;
+    top: -12%;
+    color: rgb(105, 150, 221);
+}
+#conp{
+    position: absolute;
+    left: 50%;
+    top: 19%;
+}
+#add{
+    position: absolute;
+    left: 75%;
+    top: -12%;
+    color: rgb(105, 150, 221);
+}
+#addp{
+    position: absolute;
+    left: 75%;
+    top: 13%;
+}
