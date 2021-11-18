@@ -36,7 +36,7 @@ a{
     color: rgb(1, 185, 1);
 }
 #cart{
-    margin-left: 55px;
+    margin-left: 35px;
 }
 #cp{
     position: absolute;
@@ -53,17 +53,17 @@ h1{
 #dec img{
     height: 200px;
     position: absolute;
-    top: 26%;
+    top: 28%;
 }
 #dec h2{
     position: absolute;
     left: 20%;
-    top: 22%;
+    top: 24%;
 }
 #dec p{
     position: absolute;
     left: 20.2%;
-    top: 30%;
+    top: 35%;
     width: 800px;
     font-size: large;
 }
@@ -74,17 +74,17 @@ h1{
 #mur img{
     height: 200px;
     position: absolute;
-    top: 68%;
+    top: 76%;
 }
 #mur h2{
     position: absolute;
     left: 20%;
-    top: 64%;
+    top: 72%;
 }
 #mur p{
     position: absolute;
     left: 20.2%;
-    top: 73%;
+    top: 82%;
     width: 800px;
     font-size: large;
 }
@@ -95,38 +95,38 @@ h1{
 #day img{
     height: 200px;
     position: absolute;
-    top: 112.5%;
+    top: 126%;
 }
 #day h2{
     position: absolute;
     left: 20%;
-    top: 109%;
+    top: 122%;
 }
 #day p{
     position: absolute;
     left: 20.2%;
-    top: 117%;
+    top: 132%;
     width: 800px;
     font-size: large;
 }
 #day{
-    height: 320px;
+    height: 310px;
     border-bottom: solid 1px gray; 
 }
 #dig img{
     height: 200px;
     position: absolute;
-    top: 157%;
+    top: 172%;
 }
 #dig h2{
     position: absolute;
     left: 20%;
-    top: 154%;
+    top: 170%;
 }
 #dig p{
     position: absolute;
     left: 20.2%;
-    top: 164%;
+    top: 180%;
     width: 800px;
     font-size: large;
 }
@@ -137,17 +137,17 @@ h1{
 #think img{
     height: 200px;
     position: absolute;
-    top: 200%;
+    top: 222%;
 }
 #think h2{
     position: absolute;
     left: 20%;
-    top: 197%;
+    top: 217%;
 }
 #think p{
     position: absolute;
     left: 20.2%;
-    top: 206%;
+    top: 231%;
     width: 800px;
     font-size: large;
 }
@@ -170,13 +170,13 @@ footer{
 }
 #con{
     position: absolute;
-    left: 50%;
+    left: 52.5%;
     top: -12%;
     color: rgb(105, 150, 221);
 }
 #conp{
     position: absolute;
-    left: 50%;
+    left: 52.5%;
     top: 19%;
 }
 #add{

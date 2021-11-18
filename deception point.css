@@ -65,7 +65,7 @@ p{
 #mobin{
     position: absolute;
     left: 33%;
-    top: 90%;
+    top: 95%;
     border: solid 1px black;
     border-radius: 5px;
     height: 30px;
@@ -74,17 +74,17 @@ p{
 #mob{
     position: absolute;
     left: 27.5%;
-    top: 90.3%;
+    top: 95.3%;
 }
 #ad{
     position: absolute;
-    left: 50%;
-    top: 90%;
+    left: 53%;
+    top: 95%;
 }
 #adin{
     position: absolute;
-    left: 55%;
-    top: 90%;
+    left: 58%;
+    top: 95%;
     border: solid 1px black;
     border-radius: 5px;
     font-size: large;
@@ -92,7 +92,7 @@ p{
 #but{
     position: absolute;
     left: 45%;
-    top: 120%;
+    top: 128%;
     border: none;
     height: 40px;
     width: 120px;
